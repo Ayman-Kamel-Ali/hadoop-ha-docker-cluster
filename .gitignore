@@ -7,3 +7,5 @@
 /jar_factory/
 /data_source/
 /jars/
+/shared/authorized_keys
+/shared/id_rsa*
