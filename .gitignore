@@ -1,0 +1,9 @@
+# Ignore downloaded binaries and data
+/shared/*.tar.gz
+/shared/hadoop-*/
+/shared/apache-zookeeper-*/
+/hadoop/
+*.log
+/jar_factory/
+/data_source/
+/jars/
